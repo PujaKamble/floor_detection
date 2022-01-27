@@ -88,7 +88,7 @@ AI applications. All Jetson modules and developer kits are supported by JetPack 
 supports all Jetson modules.
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/PujaKamble/floor_detection/blob/main/nano_image.jpg)
 
 ## Proposed System
 
